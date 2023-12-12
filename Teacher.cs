@@ -10,4 +10,8 @@ namespace BTCNPM
     {
     }
 }
+<<<<<<< HEAD
 int a = 10;
+=======
+int a = 15;
+>>>>>>> V5
