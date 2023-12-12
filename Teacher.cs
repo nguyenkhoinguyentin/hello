@@ -10,3 +10,4 @@ namespace BTCNPM
     {
     }
 }
+int a = 10;
